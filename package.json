@@ -1,0 +1,10 @@
+{
+  "name": "vite-plugin-bug-demo",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.0",
+    "vite": "^5.0.6"
+  }
+}
